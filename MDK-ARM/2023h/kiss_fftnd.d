@@ -1,0 +1,10 @@
+2023h\kiss_fftnd.o: ..\kiss_fft\scr\kiss_fftnd.c
+2023h\kiss_fftnd.o: ..\kiss_fft\ins\kiss_fftnd.h
+2023h\kiss_fftnd.o: ..\kiss_fft\ins\kiss_fft.h
+2023h\kiss_fftnd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+2023h\kiss_fftnd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+2023h\kiss_fftnd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+2023h\kiss_fftnd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+2023h\kiss_fftnd.o: ..\kiss_fft\ins\_kiss_fft_guts.h
+2023h\kiss_fftnd.o: ..\kiss_fft\ins\kiss_fft_log.h
+2023h\kiss_fftnd.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\limits.h
